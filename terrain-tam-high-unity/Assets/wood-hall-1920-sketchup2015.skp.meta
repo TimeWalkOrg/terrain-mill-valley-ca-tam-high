@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: f42403facb1402e4c8df85649400fbb1
+timeCreated: 1511648789
+licenseType: Pro
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001d0000001e000000
+  assetHash:
+    serializedVersion: 2
+    Hash: a1825da42ef037d7e23477b8a4d53dca
+  longitude: -122.52861857414246
+  latitude: 37.890980544038655
+  northCorrection: 0.28956229748689566
+  fileUnit: 3
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 778.1789, y: 469.38885, z: 136.37292}
+      lookAt: {x: -9.476751, y: -51.718395, z: 41.460495}
+      up: {x: -0.54505885, y: 0.83582115, z: -0.065679535}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Location Terrain
+    100002: North Wood Hall
+    100004: South Wood Hall
+    100006: Tower
+    100008: Tower filial
+    100010: Wood Hall Lower Windows
+    100012: Wood Hall Lower Windows 1
+    100014: Wood Hall Lower Windows 2
+    100016: Wood Hall Lower Windows 3
+    100018: Wood Hall Top Windows
+    100020: Wood Hall Top Windows 1
+    100022: Wood Hall Top Windows 2
+    100024: Wood Hall Top Windows 3
+    100026: //RootNode
+    400000: Location Terrain
+    400002: North Wood Hall
+    400004: South Wood Hall
+    400006: Tower
+    400008: Tower filial
+    400010: Wood Hall Lower Windows
+    400012: Wood Hall Lower Windows 1
+    400014: Wood Hall Lower Windows 2
+    400016: Wood Hall Lower Windows 3
+    400018: Wood Hall Top Windows
+    400020: Wood Hall Top Windows 1
+    400022: Wood Hall Top Windows 2
+    400024: Wood Hall Top Windows 3
+    400026: //RootNode
+    2300000: Location Terrain
+    2300002: North Wood Hall
+    2300004: South Wood Hall
+    2300006: Tower
+    2300008: Tower filial
+    2300010: Wood Hall Lower Windows
+    2300012: Wood Hall Lower Windows 1
+    2300014: Wood Hall Lower Windows 2
+    2300016: Wood Hall Lower Windows 3
+    2300018: Wood Hall Top Windows
+    2300020: Wood Hall Top Windows 1
+    2300022: Wood Hall Top Windows 2
+    2300024: Wood Hall Top Windows 3
+    3300000: Location Terrain
+    3300002: North Wood Hall
+    3300004: South Wood Hall
+    3300006: Tower
+    3300008: Tower filial
+    3300010: Wood Hall Lower Windows
+    3300012: Wood Hall Lower Windows 1
+    3300014: Wood Hall Lower Windows 2
+    3300016: Wood Hall Lower Windows 3
+    3300018: Wood Hall Top Windows
+    3300020: Wood Hall Top Windows 1
+    3300022: Wood Hall Top Windows 2
+    3300024: Wood Hall Top Windows 3
+    4300000: Mesh South Wood Hall
+    4300002: Mesh Wood Hall Top Windows
+    4300004: Mesh Wood Hall Lower Windows
+    4300006: Mesh North Wood Hall
+    4300008: Mesh Tower
+    4300010: Mesh Tower filial
+    4300012: Mesh Location Terrain
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0020_Red
+    second: {fileID: 2100000, guid: e2fcfcf7f87cf1a458cd583c11864eaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0029_BlanchedAlmond
+    second: {fileID: 2100000, guid: 776c626985591ee42a6c95fdbaa7876e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0043_SaddleBrown
+    second: {fileID: 2100000, guid: 270a55b9a94c2704782223a8024ffbb3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0128_White
+    second: {fileID: 2100000, guid: 65e2666009add74469540e0bb25bfd0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0133_Gray
+    second: {fileID: 2100000, guid: 600608d37b3035645bfe830b67d81566, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0136_Charcoal
+    second: {fileID: 2100000, guid: 364104c18480ea84e8506ee3c9119778, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chris_Shoe
+    second: {fileID: 2100000, guid: e7c79f73708d96b40b1fb9da5d270002, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fencing Railing Metal
+    second: {fileID: 2100000, guid: cede8aca40bf246489d32bb247fc326e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Location Snapshot#1
+    second: {fileID: 2100000, guid: e5050e052e7ef5b45840e84b8db927f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roofing Tile Spanish
+    second: {fileID: 2100000, guid: eadc84142aa53504684fcd4a50667168, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TamHighRailing
+    second: {fileID: 2100000, guid: 325403f7a15014848a534ef4df77bb7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Translucent Glass Blue
+    second: {fileID: 2100000, guid: 503dfda3fc94b8842a41d4676da333dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Translucent Glass Sky Reflection
+    second: {fileID: 2100000, guid: d5f4e8657464e6041aa2d290773818ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _3
+    second: {fileID: 2100000, guid: d13dbb0bc9d133546b4e9a758b09824f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _4
+    second: {fileID: 2100000, guid: 1773667a39b663040a80882e5822b904, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _6
+    second: {fileID: 2100000, guid: 5e60614da9dc6554da78c6c69f7151dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 1d33578e03bc07448892810b1bc09699, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
