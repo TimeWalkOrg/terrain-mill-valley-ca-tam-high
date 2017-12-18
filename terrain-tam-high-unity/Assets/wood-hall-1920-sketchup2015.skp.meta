@@ -3,21 +3,21 @@ guid: f42403facb1402e4c8df85649400fbb1
 timeCreated: 1511648789
 licenseType: Pro
 SketchUpImporter:
-  generateBackFace: 0
+  generateBackFace: 1
   mergeCoplanarFaces: 0
-  selectedNodes: 00000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001d0000001e000000
+  selectedNodes: 000000000500000006000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000
   assetHash:
     serializedVersion: 2
-    Hash: a1825da42ef037d7e23477b8a4d53dca
+    Hash: c82b80257136937258e0b2c85dbf685c
   longitude: -122.52861857414246
   latitude: 37.890980544038655
   northCorrection: 0.28956229748689566
   fileUnit: 3
   sketchUpImportData:
     defaultCamera:
-      position: {x: 778.1789, y: 469.38885, z: 136.37292}
-      lookAt: {x: -9.476751, y: -51.718395, z: 41.460495}
-      up: {x: -0.54505885, y: 0.83582115, z: -0.065679535}
+      position: {x: -14.564163, y: 38.416416, z: 212.95137}
+      lookAt: {x: -40.653065, y: 35.89074, z: 201.26881}
+      up: {x: -0.080327354, y: 0.9961193, z: -0.035970375}
       fov: 35
       aspectRatio: 0
       orthoSize: 1
@@ -39,6 +39,19 @@ SketchUpImporter:
     100022: Wood Hall Top Windows 2
     100024: Wood Hall Top Windows 3
     100026: //RootNode
+    100028: Left window
+    100030: Left window 1
+    100032: Left window 10
+    100034: Left window 2
+    100036: Left window 3
+    100038: Left window 4
+    100040: Left window 5
+    100042: Left window 6
+    100044: Left window 7
+    100046: Left window 8
+    100048: Left window 9
+    100050: Left window#1
+    100052: Group 9
     400000: Location Terrain
     400002: North Wood Hall
     400004: South Wood Hall
@@ -53,6 +66,19 @@ SketchUpImporter:
     400022: Wood Hall Top Windows 2
     400024: Wood Hall Top Windows 3
     400026: //RootNode
+    400028: Left window
+    400030: Left window 1
+    400032: Left window 10
+    400034: Left window 2
+    400036: Left window 3
+    400038: Left window 4
+    400040: Left window 5
+    400042: Left window 6
+    400044: Left window 7
+    400046: Left window 8
+    400048: Left window 9
+    400050: Left window#1
+    400052: Group 9
     2300000: Location Terrain
     2300002: North Wood Hall
     2300004: South Wood Hall
@@ -66,6 +92,20 @@ SketchUpImporter:
     2300020: Wood Hall Top Windows 1
     2300022: Wood Hall Top Windows 2
     2300024: Wood Hall Top Windows 3
+    2300026: Left window
+    2300028: Left window 1
+    2300030: Left window 10
+    2300032: Left window 2
+    2300034: Left window 3
+    2300036: Left window 4
+    2300038: Left window 5
+    2300040: Left window 6
+    2300042: Left window 7
+    2300044: Left window 8
+    2300046: Left window 9
+    2300048: Left window#1
+    2300050: //RootNode
+    2300052: Group 9
     3300000: Location Terrain
     3300002: North Wood Hall
     3300004: South Wood Hall
@@ -79,6 +119,20 @@ SketchUpImporter:
     3300020: Wood Hall Top Windows 1
     3300022: Wood Hall Top Windows 2
     3300024: Wood Hall Top Windows 3
+    3300026: Left window
+    3300028: Left window 1
+    3300030: Left window 10
+    3300032: Left window 2
+    3300034: Left window 3
+    3300036: Left window 4
+    3300038: Left window 5
+    3300040: Left window 6
+    3300042: Left window 7
+    3300044: Left window 8
+    3300046: Left window 9
+    3300048: Left window#1
+    3300050: //RootNode
+    3300052: Group 9
     4300000: Mesh South Wood Hall
     4300002: Mesh Wood Hall Top Windows
     4300004: Mesh Wood Hall Lower Windows
@@ -86,6 +140,10 @@ SketchUpImporter:
     4300008: Mesh Tower
     4300010: Mesh Tower filial
     4300012: Mesh Location Terrain
+    4300014: Mesh wood-hall-1920-sketchup2015
+    4300016: Mesh Left window
+    4300018: Mesh Left window#1
+    4300020: Mesh Group 9
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -147,6 +205,11 @@ SketchUpImporter:
       assembly: UnityEngine.CoreModule
       name: Translucent Glass Blue
     second: {fileID: 2100000, guid: 503dfda3fc94b8842a41d4676da333dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Translucent Glass Safety
+    second: {fileID: 2100000, guid: 02f609072352e0d42a84eb87a25ff732, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
